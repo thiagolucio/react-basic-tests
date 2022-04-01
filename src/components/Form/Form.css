@@ -1,0 +1,28 @@
+.form_evento {
+    width: 330px;
+    height: 200px;
+}
+
+.input_submit {
+    border: none;
+    padding: 8px 16px;
+    border-radius: 8px;
+    background: #00bcd4;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.input_container {
+    margin: 8px 0;
+    padding: 8px;
+}
+
+.input_container > input {
+    background: rgb(232, 230, 230);
+    border: none;
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+    color: black;
+    font-weight: bold;
+    border-radius: 6px;
+}

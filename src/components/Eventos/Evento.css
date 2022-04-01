@@ -1,0 +1,8 @@
+.capa_button {
+    display: flex;
+}
+
+.capa_button > button {
+    margin: 8px;
+}
+

@@ -1,0 +1,20 @@
+.index {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 100vh;
+    gap: 16%;
+    margin: 0;
+    font-size: 2em;
+    font-weight: bold;
+    color: rgb(60, 255, 196);
+}
+
+.container_index {
+    height: 100%;
+    position: relative;
+    background-color: #3a3a3a;
+    margin: 0;
+}

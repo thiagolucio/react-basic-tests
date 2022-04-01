@@ -1,0 +1,17 @@
+.badge {
+    background: red;    
+    border-radius: 50em;
+    width: 19px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 50px;
+}
+
+.badge > span {
+    font-size: 10px;
+    margin: auto;
+    color: white;
+}

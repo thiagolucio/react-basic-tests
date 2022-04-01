@@ -1,0 +1,22 @@
+.container_StateLift {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    background: lightsalmon;
+    margin: 30px 0;
+    border-bottom: 2px dotted black;
+    gap: 8px;
+    justify-content: center;
+    align-items: center;
+}
+.container_StateLift > input {
+    padding: 8px;
+    border-radius: 6px;
+    border: none;
+}
+
+.container_StateLift > label {
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+}

@@ -1,0 +1,12 @@
+.top_menu_container, .top_menu_container ul {
+    display: flex;
+    background: darkslateblue;    
+    flex-direction: row;
+    gap: 8px;
+}
+
+.top_menu_logo {
+    color: aliceblue;
+    font-weight: 700;
+    margin: auto 20px;
+}

@@ -1,0 +1,17 @@
+ul {
+    padding: 8px;
+    border-radius: 8px;
+    min-width: 300px;
+}
+li {
+    font-size: 12px;
+
+}
+
+.body_list {
+    background: rgb(243, 166, 234);
+    padding: 16px;
+    border-radius: 8px;
+    margin: 16px;
+    max-width: 300px;
+}
